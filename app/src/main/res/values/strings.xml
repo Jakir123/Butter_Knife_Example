@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Butter_Knife_Example</string>
+    <string name="action_settings">Settings</string>
+    <string name="hint_name">Enter Your Name Here.</string>
+    <string name="hint_email">Enter Your Email Here.</string>
+    <string name="hint_password">Enter A New Password.</string>
+    <string name="btn_sign_up">Sign Up!</string>
+    <string name="tv_login">Already Have An Account !</string>
+    <string name="err_msg_name">Enter Your Full Name Plz.</string>
+    <string name="err_msg_email">Enter A Valid Email Plz.</string>
+    <string name="err_msg_password">Enter Your Password Plz.</string>
+    <string name="title_activity_log_in">Log In Activity</string>
+    <string name="btn_log_in">Log In</string>
+    <string name="tv_sign_up">Don\'t Have Any Account !</string>
+    <string name="hint_password_log_in">Enter Your Password</string>
+    <string name="title_activity_sign_up">Sign Up Activity</string>
+</resources>
